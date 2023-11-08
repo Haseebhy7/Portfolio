@@ -1,0 +1,13 @@
+.hire a{
+    font-size: 30px;
+    text-decoration: none;
+    border: 10px blue ;
+    color: white;
+    border-radius: 50px;
+}
+.hire a:hover{
+    font-size: 30px;
+    text-decoration: none;
+    border: 2px rgb(255, 255, 255);
+    color: blue;
+}
